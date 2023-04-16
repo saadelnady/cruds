@@ -1,1 +1,1 @@
-# cruds
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://www.awesomescreenshot.com/image/38987659?key=914a01b55834ba1098d85fdbd0f10d65)
